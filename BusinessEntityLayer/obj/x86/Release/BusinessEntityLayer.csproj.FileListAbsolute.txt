@@ -1,0 +1,10 @@
+C:\Vinod\POSApplication\BusinessEntityLayer\bin\x86\Release\BusinessEntityLayer.dll
+C:\Vinod\POSApplication\BusinessEntityLayer\bin\x86\Release\BusinessEntityLayer.pdb
+C:\Vinod\POSApplication\BusinessEntityLayer\obj\x86\Release\BusinessEntityLayer.csproj.CoreCompileInputs.cache
+C:\Vinod\POSApplication\BusinessEntityLayer\obj\x86\Release\BusinessEntityLayer.dll
+C:\Vinod\POSApplication\BusinessEntityLayer\obj\x86\Release\BusinessEntityLayer.pdb
+C:\Vijay\My RAOS Projects\POS\Vinod\POSApplication\BusinessEntityLayer\bin\x86\Release\BusinessEntityLayer.dll
+C:\Vijay\My RAOS Projects\POS\Vinod\POSApplication\BusinessEntityLayer\bin\x86\Release\BusinessEntityLayer.pdb
+C:\Vijay\My RAOS Projects\POS\Vinod\POSApplication\BusinessEntityLayer\obj\x86\Release\BusinessEntityLayer.csproj.CoreCompileInputs.cache
+C:\Vijay\My RAOS Projects\POS\Vinod\POSApplication\BusinessEntityLayer\obj\x86\Release\BusinessEntityLayer.dll
+C:\Vijay\My RAOS Projects\POS\Vinod\POSApplication\BusinessEntityLayer\obj\x86\Release\BusinessEntityLayer.pdb

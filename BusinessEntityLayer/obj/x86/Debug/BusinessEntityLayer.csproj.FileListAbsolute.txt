@@ -1,0 +1,10 @@
+C:\Backup\POSApplication\BusinessEntityLayer\bin\x86\Debug\BusinessEntityLayer.dll
+C:\Backup\POSApplication\BusinessEntityLayer\bin\x86\Debug\BusinessEntityLayer.pdb
+C:\Backup\POSApplication\BusinessEntityLayer\obj\x86\Debug\BusinessEntityLayer.csproj.CoreCompileInputs.cache
+C:\Backup\POSApplication\BusinessEntityLayer\obj\x86\Debug\BusinessEntityLayer.dll
+C:\Backup\POSApplication\BusinessEntityLayer\obj\x86\Debug\BusinessEntityLayer.pdb
+C:\Vinod\POSApplication\BusinessEntityLayer\bin\x86\Debug\BusinessEntityLayer.dll
+C:\Vinod\POSApplication\BusinessEntityLayer\bin\x86\Debug\BusinessEntityLayer.pdb
+C:\Vinod\POSApplication\BusinessEntityLayer\obj\x86\Debug\BusinessEntityLayer.csproj.CoreCompileInputs.cache
+C:\Vinod\POSApplication\BusinessEntityLayer\obj\x86\Debug\BusinessEntityLayer.dll
+C:\Vinod\POSApplication\BusinessEntityLayer\obj\x86\Debug\BusinessEntityLayer.pdb
